@@ -9,4 +9,8 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public class test01 {
   ConcurrentHashMap oo=new ConcurrentHashMap();
+
+  public static void main(String[] args) {
+    System.out.println("hhh");
+  }
 }
